@@ -1,5 +1,5 @@
 # Tên Dự Án
-// tên project
+App lịch trình dựa trên thuật toán lập kế hoạch FCFS
 
 ## Thành viên nhóm 5:
 1. Trần Đăng Hiếu
